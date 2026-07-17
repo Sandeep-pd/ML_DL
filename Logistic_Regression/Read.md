@@ -45,15 +45,7 @@ After executing the pipeline, the resulting dataframe properties are structured 
 
 ---
 
-## Setup & Execution
 
-### Prerequisites
-Ensure you have Python 3.8+ installed. You can set up the environment and dependencies using the commands below:
-
-```bash
-# Clone the repository
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-cd YOUR-REPO-NAME
 
 # Install required data processing libraries
 pip install pandas jupyter
